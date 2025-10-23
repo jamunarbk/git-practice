@@ -1,2 +1,3 @@
 "This is my first GitHub project"
 "This line was added from GitHub directly"
+"Changes commited"
